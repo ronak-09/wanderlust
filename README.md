@@ -1,45 +1,42 @@
-🌍 Wanderlust – A Functional Airbnb Clone
+# 🏡 Wanderlust - Airbnb Clone
 
-🚀 A full-stack web application where users can list, browse, and review accommodations — built with modern web technologies.
+A **functional clone of Airbnb**, built with full-stack web technologies. Users can **list, edit, and review accommodations**, with secure login functionality.
 
-🧭 Overview
-Wanderlust is a functional clone of Airbnb that provides a platform for users to:
+![App Screenshot](https://github.com/ronak-09/wanderlust/blob/9537bffef8886816950b01ce5642011339da8d72/Screenshot%20(2139).png)
 
-🔐 Securely register and log in
+---
 
-🏡 Create, update, and delete accommodation listings
+## 🌐 Live Website
 
-📝 Leave reviews and feedback on listings
+🔗 [https://wanderlust-yp4p.onrender.com/listings](https://wanderlust-yp4p.onrender.com/listings)
 
-🌐 Explore listings via a clean and user-friendly interface
+---
 
-🛠 Tech Stack
-Frontend: HTML, CSS, JavaScript, EJS
+## 🚀 Features
 
-Backend: Node.js, Express.js
+- 🔐 User authentication (register/login)
+- 🏠 Add, edit, and delete listings
+- ✍️ Write and manage reviews
+- 💻 Fully responsive layout
+- 🧭 Clean and intuitive UI
 
-Database: MongoDB
+---
 
-Authentication: Passport.js (or specify if using another)
+## 🛠 Tech Stack
 
-Templating Engine: EJS
+- **Frontend:** HTML, CSS, JavaScript, EJS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Authentication:** Passport.js
 
-🚗 Live Demo
-🔗 Click here to explore Wanderlust
+---
 
-Deployed on Render.com
+## 📂 Project Setup
 
-📦 Features
-🔑 User authentication (login/register)
+To run locally:
 
-🏠 Create and manage your own listings
-
-⭐ Review and rate other listings
-
-💻 Full CRUD functionality
-
-📱 Responsive design for all screen sizes
-
-![image alt]()
-
-
+```bash
+git clone https://github.com/ronak-09/wanderlust.git
+cd wanderlust
+npm install
+npm start
