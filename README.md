@@ -1,3 +1,7 @@
+
+![image alt] (https://github.com/ronak-09/wanderlust/blob/9537bffef8886816950b01ce5642011339da8d72/Screenshot%20(2139).png)
+
+
 🌟 Functional Clone of Airbnb
 🚀 A platform that seamlessly integrates functionality for users to list, edit, and review accommodations, complete with secure login capabilities
 Introduction
