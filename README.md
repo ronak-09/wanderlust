@@ -39,4 +39,4 @@ To run locally:
 git clone https://github.com/ronak-09/wanderlust.git
 cd wanderlust
 npm install
-npm start
+npm run dev
