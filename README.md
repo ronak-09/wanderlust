@@ -40,11 +40,6 @@ Deployed on Render.com
 
 📱 Responsive design for all screen sizes
 
-📸 Screenshots
-(You can add more screenshots here to showcase different parts of the app.)
+![image alt]()
 
-💡 Inspiration
-This project was inspired by Airbnb’s platform to understand the architectural and UX aspects of a real-world application.
 
-📬 Feedback
-Feel free to open issues or pull requests. I'd love to hear your feedback or suggestions for improvements!
